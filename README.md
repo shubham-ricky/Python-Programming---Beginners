@@ -1,1 +1,1 @@
-# This repository is for beginners level Python programming questions with solutions
+# This repository includes beginners level Python programming questions with solutions
